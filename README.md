@@ -21,6 +21,9 @@ Visualize the sales prediction via Tableau
 # Tool
 Alteryx; Tableau
 
+# Model
+Linear Regression; Time Series; Score
+
 # Source
 1. Historical Sales Report
 
